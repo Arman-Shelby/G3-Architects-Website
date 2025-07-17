@@ -205,6 +205,16 @@ main > section{
 } */
 
 
+/* Footer Styles */
+footer{
+    justify-content: center;
+    margin: 39px 410px;
+    background-color: #FFF4E7;
+    border-radius: 20px;
+  
+}
+
+
 /* Responsive Media Query  */
 @media screen and (max-width: 576px) {
     .navbar, 
